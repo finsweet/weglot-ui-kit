@@ -1,0 +1,16 @@
+{
+  "name": "@finsweet/weglot-ui-kit",
+  "version": "0.0.0",
+  "description": "A JavaScript utility to manage language switchers in Webflow using the Weglot translation API.",
+  "main": "dropdowns.js",
+  "keywords": [
+    "Webflow",
+    "Weglot",
+    "Finsweet"
+  ],
+  "author": "Finsweet",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.9"
+  }
+}
